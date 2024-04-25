@@ -1,3 +1,4 @@
+Edting by Shivam_yadav
 # RGB-TubeLight
 
 This project contains the firmware for the arduino and the code for the mobile app. For all photo and videographers who don't want to spend huge amounts of money on name brand LED tube lights, this is a DIY solution that builds on from to the generic DIY tube lights found across Youtube. What makes this different from the generic DIY Tube lights on Youtube is that this project allows full control over bluetooth through the use of the App and arduino firmware.
